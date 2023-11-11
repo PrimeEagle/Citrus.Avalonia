@@ -2,6 +2,8 @@
 
 ### Citrus
 
+<img src="https://github.com/PrimeEagle/Citrus.Avalonia-v2/blob/main/citrus.png?raw=true" width="250" />
+
 Avalonia experimental theme.
 
 <img src="./assets/picture.jpeg" width="600">
