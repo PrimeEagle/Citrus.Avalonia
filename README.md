@@ -8,6 +8,11 @@ Avalonia experimental theme.
 
 <img src="./assets/picture.jpeg" width="600">
 
+### What's Different from the Base Repository?
+
+This v2 fork is updated to work with Avalonia 11.0.5 and supports embedded (pre-made) themes, just like the original, but also dynamic themes that can be loaded at runtime. It also supports asynchronous code for loading and changing themes.
+
+
 ### Getting Started
 
 The easiest way to get started is to install the library as a NuGet package:
